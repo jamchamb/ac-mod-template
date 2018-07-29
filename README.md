@@ -1,6 +1,7 @@
 # Animal Crossing Mod Patch Template
 
-This is an template for Animal Crossing mod patches written in C.
+This is a template for Animal Crossing mod patches written in C.
+Some example mods can be found in the [ac-mods](https://github.com/jamchamb/ac-mods) repo.
 
 This requires the devkitPro tools to build.
 See <https://devkitpro.org/wiki/Getting_Started> for how to install `devkitpro` and `gamecube-dev`.
