@@ -1,4 +1,6 @@
-# Animal Crossing "Hello World" with C
+# Animal Crossing Mod Patch Template
+
+This is an template for Animal Crossing mod patches written in C.
 
 This requires the devkitPro tools to build.
 See <https://devkitpro.org/wiki/Getting_Started> for how to install `devkitpro` and `gamecube-dev`.
