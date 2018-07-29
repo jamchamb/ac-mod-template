@@ -11,7 +11,7 @@ patches:
 
   # main code
   - target: 0x80002000
-    file: hello_osreport_c.patch
+    file: ac-mod-template.patch
     flags:
       # run this patch after loading
       jump: true

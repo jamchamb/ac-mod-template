@@ -1,3 +1,8 @@
+#include <stdio.h>
+#include <stddef.h>
+#include <stdint.h>
+#include <string.h>
+
 #include "aclib.h"
 
 void __entry() {
