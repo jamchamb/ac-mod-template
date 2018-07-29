@@ -18,6 +18,5 @@ extern void ICInvalidateRange(void* start, uint32_t size);
 extern void DCInvalidateRange(void* start, uint32_t size);
 
 // Animal Crossing functions
-extern void Debug_mode_output(void *arg1);
 
 #endif
